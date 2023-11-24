@@ -1,0 +1,27 @@
+PEGAR VOZ COM O MINIMO DE EMOÇÃO POSSIVEL
+criar voz da assistente 
+
+https://elevenlabs.io/
+
+voz : charlotte  
+Voice Settings
+Stability 50%  
+Clarity + Similarity Enhancement 75%
+multi linguagem 1
+
+Criar voz computador da nave 
+voz : adam  
+Voice Settings
+Stability 50%  
+Clarity + Similarity Enhancement 75%
+multi linguagem 1
+
+Transformar voz 
+
+https://voicechanger.io/
+
+voz charlotte 
+astronauta
+
+voz adam 
+Bane
